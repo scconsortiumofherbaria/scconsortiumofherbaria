@@ -1,0 +1,19 @@
+body {
+  font-family: Georgia, serif;
+  max-width: 700px;
+  margin: 40px auto;
+  line-height: 1.6;
+  padding: 0 20px;
+  color: #111;
+  background-color: #fff;
+}
+nav a {
+  margin-right: 20px;
+  text-decoration: none;
+  color: #444;
+}
+nav {
+  margin-bottom: 40px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
